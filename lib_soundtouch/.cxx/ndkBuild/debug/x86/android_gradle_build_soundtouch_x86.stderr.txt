@@ -1,0 +1,20 @@
+C:/Users/AlanWang/AppData/Local/Android/Sdk/ndk/21.0.6113669/build//../build/core/build-binary.mk:651: Android NDK: Module soundtouch depends on undefined modules: -lgcc    
+E:/projects/soundtouch/demo/lib_soundtouch/jni/SoundTouch/cpu_detect_x86.cpp:49:12: warning: 'bit_MMX' macro redefined [-Wmacro-redefined]
+   #define bit_MMX     (1 << 23)
+           ^
+C:/Users/AlanWang/AppData/Local/Android/Sdk/ndk/21.0.6113669/build//../toolchains/llvm/prebuilt/windows-x86_64\lib64\clang\9.0.8\include\cpuid.h:126:9: note: previous definition is here
+#define bit_MMX         0x00800000
+        ^
+E:/projects/soundtouch/demo/lib_soundtouch/jni/SoundTouch/cpu_detect_x86.cpp:50:12: warning: 'bit_SSE' macro redefined [-Wmacro-redefined]
+   #define bit_SSE     (1 << 25)
+           ^
+C:/Users/AlanWang/AppData/Local/Android/Sdk/ndk/21.0.6113669/build//../toolchains/llvm/prebuilt/windows-x86_64\lib64\clang\9.0.8\include\cpuid.h:129:9: note: previous definition is here
+#define bit_SSE         0x02000000
+        ^
+E:/projects/soundtouch/demo/lib_soundtouch/jni/SoundTouch/cpu_detect_x86.cpp:51:12: warning: 'bit_SSE2' macro redefined [-Wmacro-redefined]
+   #define bit_SSE2    (1 << 26)
+           ^
+C:/Users/AlanWang/AppData/Local/Android/Sdk/ndk/21.0.6113669/build//../toolchains/llvm/prebuilt/windows-x86_64\lib64\clang\9.0.8\include\cpuid.h:130:9: note: previous definition is here
+#define bit_SSE2        0x04000000
+        ^
+3 warnings generated.

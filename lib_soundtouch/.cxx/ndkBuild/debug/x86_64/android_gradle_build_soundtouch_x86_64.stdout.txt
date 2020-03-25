@@ -1,0 +1,16 @@
+[x86_64] Compile++      : soundtouch <= soundtouch-jni.cpp
+[x86_64] Compile++      : soundtouch <= AAFilter.cpp
+[x86_64] Compile++      : soundtouch <= FIFOSampleBuffer.cpp
+[x86_64] Compile++      : soundtouch <= FIRFilter.cpp
+[x86_64] Compile++      : soundtouch <= cpu_detect_x86.cpp
+[x86_64] Compile++      : soundtouch <= sse_optimized.cpp
+[x86_64] Compile++      : soundtouch <= WavFile.cpp
+[x86_64] Compile++      : soundtouch <= RateTransposer.cpp
+[x86_64] Compile++      : soundtouch <= SoundTouch.cpp
+[x86_64] Compile++      : soundtouch <= InterpolateCubic.cpp
+[x86_64] Compile++      : soundtouch <= InterpolateLinear.cpp
+[x86_64] Compile++      : soundtouch <= InterpolateShannon.cpp
+[x86_64] Compile++      : soundtouch <= TDStretch.cpp
+[x86_64] Compile++      : soundtouch <= BPMDetect.cpp
+[x86_64] Compile++      : soundtouch <= PeakFinder.cpp
+[x86_64] SharedLibrary  : libsoundtouch.so

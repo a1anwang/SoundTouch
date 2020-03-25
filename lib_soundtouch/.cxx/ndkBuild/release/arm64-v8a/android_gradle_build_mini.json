@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "E:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Android.mk",
+    "E:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\AlanWang\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/projects/soundtouch/demo/lib_soundtouch/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\build\\intermediates\\ndkBuild\\release\\lib NDK_APPLICATION\u003djni/Application.mk APP_ALLOW_MISSING_DEPS:\u003dtrue clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\AlanWang\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/projects/soundtouch/demo/lib_soundtouch/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\build\\intermediates\\ndkBuild\\release\\lib NDK_APPLICATION\u003djni/Application.mk APP_ALLOW_MISSING_DEPS:\u003dtrue {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "soundtouch-release-arm64-v8a": {
+      "artifactName": "soundtouch",
+      "buildCommand": "C:\\Users\\AlanWang\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/projects/soundtouch/demo/lib_soundtouch/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\projects\\soundtouch\\demo\\lib_soundtouch\\build\\intermediates\\ndkBuild\\release\\lib NDK_APPLICATION\u003djni/Application.mk APP_ALLOW_MISSING_DEPS:\u003dtrue E:/projects/soundtouch/demo/lib_soundtouch/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libsoundtouch.so",
+      "abi": "arm64-v8a",
+      "output": "E:\\projects\\soundtouch\\demo\\lib_soundtouch\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libsoundtouch.so"
+    }
+  }
+}

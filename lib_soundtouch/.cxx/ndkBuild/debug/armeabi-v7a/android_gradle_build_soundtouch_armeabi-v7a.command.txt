@@ -1,0 +1,16 @@
+Executable : C:\Users\AlanWang\AppData\Local\Android\Sdk\ndk\21.0.6113669\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=E:\projects\soundtouch\demo\lib_soundtouch\jni\Android.mk
+NDK_APPLICATION_MK=E:\projects\soundtouch\demo\lib_soundtouch\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-21
+NDK_OUT=E:/projects/soundtouch/demo/lib_soundtouch/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=E:\projects\soundtouch\demo\lib_soundtouch\build\intermediates\ndkBuild\debug\lib
+NDK_APPLICATION=jni/Application.mk
+APP_ALLOW_MISSING_DEPS:=true
+soundtouch
+jvmArgs : 
+
