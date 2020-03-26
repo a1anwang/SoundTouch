@@ -1,6 +1,6 @@
 # SoundTouch  
  
- android soundtouch lib ，from soundtouch offical 从官方下载剥离成库，方便使用  
+ android soundtouch lib ，V2.1.3 from soundtouch offical 从官方下载的最新版V2.1.3，剥离成库，方便使用  
    
 Usage:  
 download android import module 'lib_soundtouch' to your app.  
